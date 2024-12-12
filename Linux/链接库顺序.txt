@@ -1,0 +1,13 @@
+libeasyavfilter.a
+libavfilter.a
+libavformat.a
+libavdevice.a
+libavcodec.a
+libavutil.a
+libpostproc.a
+libswresample.a
+libswscale.a
+libz.a
+libx264.a
+libssl.a
+libcrypto.a
